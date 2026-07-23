@@ -90,5 +90,5 @@
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/amit6264">amit6264</a> — thanks for stopping by!</i>
+  <i>⭐️ From <a href="https://github.com/amit6264">amit patidar</a> — thanks for stopping by!</i>
 </p>
